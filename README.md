@@ -27,7 +27,7 @@
 
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+- 🔭 I’m currently working on Flutter(https://flutter.dev/).
 - 🌱 I’m currently learning more about AI & ML.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/Codegera).
 - 💬 Ask me about Flutter or any tech related stuff.
@@ -35,11 +35,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend many days of months in travelling.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/darab_singh97)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darab-singh93/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
-
+[![Twitter: Darab Singh](https://img.shields.io/twitter/follow/darab_singh97?style=social)](https://twitter.com/darab_singh97)
+[![Linkedin: Darab Singh](https://img.shields.io/badge/-darab-singh93-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darab-singh93/)](https://www.linkedin.com/in/darab-singh93/)
+[![GitHub Darab Singh](https://img.shields.io/github/followers/darab-singh93?label=follow&style=social)](https://github.com/darab-singh93)
 
 **Languages and Tools:**  
 
