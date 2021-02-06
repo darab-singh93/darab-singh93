@@ -34,7 +34,6 @@
 - ⚡ Fun fact: I spend many days of months in travelling.
 
 <br/>
-<br/>
 
 **Languages and Tools:**  
 
