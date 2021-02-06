@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/44564701?s=460&u=2c5859372a9f9d9bb06b9118f4588a9ae80696e7&v=4" alt="darab-singh93" width="150" height="150" /> </p>
 
-<a href="https://twitter.com/darab_singh97">
-  <img align="left" alt="Darab's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://linkedin.com/in/darab-singh93">
   <img align="left" alt="Darab's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.youtube.com/Codegera/">
+  <img align="left" alt="Darab's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://github.com/darab-singh93">
   <img align="left" alt="Darab's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -18,10 +18,9 @@
 <a href="https://www.facebook.com/darab.singh.9066/">
   <img align="left" alt="Darab's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/Codegera/">
-  <img align="left" alt="Darab's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://twitter.com/darab_singh97">
+  <img align="left" alt="Darab's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <br/>
 <br/>
 
