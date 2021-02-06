@@ -1,6 +1,6 @@
 ## Hola, I'm Darab Singh 👋
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/44564701?s=460&u=2c5859372a9f9d9bb06b9118f4588a9ae80696e7&v=4" alt="darab-singh93" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/44564701?s=460&u=2c5859372a9f9d9bb06b9118f4588a9ae80696e7&v=4" alt="darab-singh93" width="150" height="150" /> </p>
 
 <a href="https://twitter.com/darab_singh97">
   <img align="left" alt="Darab's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,9 +25,7 @@
 <br/>
 <br/>
 
-
-
-- 🔭 I’m currently working on Flutter(https://flutter.dev/).
+- 🔭 I’m currently working on [Flutter](https://flutter.dev/).
 - 🌱 I’m currently learning more about AI & ML.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/Codegera).
 - 💬 Ask me about Flutter or any tech related stuff.
@@ -35,9 +33,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend many days of months in travelling.
 
-[![Twitter: Darab Singh](https://img.shields.io/twitter/follow/darab_singh97?style=social)](https://twitter.com/darab_singh97)
-[![Linkedin: Darab Singh](https://img.shields.io/badge/-darab-singh93-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darab-singh93/)](https://www.linkedin.com/in/darab-singh93/)
-[![GitHub Darab Singh](https://img.shields.io/github/followers/darab-singh93?label=follow&style=social)](https://github.com/darab-singh93)
+<br/>
+<br/>
 
 **Languages and Tools:**  
 
