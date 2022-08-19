@@ -5,9 +5,7 @@
 <a href="https://linkedin.com/in/darab-singh93">
   <img align="left" alt="Darab's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/Codegera/">
-  <img align="left" alt="Darab's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+
 <a href="https://github.com/darab-singh93">
   <img align="left" alt="Darab's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
