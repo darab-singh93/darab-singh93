@@ -24,9 +24,8 @@
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/).
 - 🌱 I’m currently learning more about AI & ML.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/Codegera).
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @darab_singh97](https://twitter.com/darab_singh97) , [Youtube - @Codegera](https://youtube.com/Codegera)
+- 📫 How to reach me: [Twitter](https://twitter.com/darab_singh97) , [LinkedIn](https://www.linkedin.com/in/darab-singh93/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend many days of months in travelling.
 
