@@ -1,4 +1,4 @@
-## Hola, I'm Darab Singh 👋
+## Hi, I'm Darab Singh 👋
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/44564701?s=460&u=2c5859372a9f9d9bb06b9118f4588a9ae80696e7&v=4" alt="darab-singh93" width="150" height="150" /> </p>
 
